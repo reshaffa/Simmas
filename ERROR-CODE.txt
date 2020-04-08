@@ -1,0 +1,11 @@
+ERROR CODE :
+
+E.200 : Sukses.
+E.201 : Data tidak tersedia.
+E.202 : Parameter tidak boleh kosong.
+E.203 : Format parameter salah.
+
+E.401 : Username atau api keys tidak boleh kosong.
+E.404 : Username atau api keys tidak terdaftar.
+
+E.901 : Error Query Mysql
